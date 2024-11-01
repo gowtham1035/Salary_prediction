@@ -40,11 +40,9 @@ pip install -r requirements.txt
 
 ```markdown
 salary_predictor/
-├── data/
-│   └── Employee_salaries.csv      # Dataset used for training the model
+└── Employee_salaries.csv      # Dataset used for training the model
 ├── salary_predictor.ipynb          # Jupyter notebook with data processing and model
 ├── README.md                       # Project documentation
-└── requirements.txt                # Dependencies for running the notebook
 ```
 
 ## Data Preprocessing
