@@ -75,7 +75,7 @@ The model achieved an R² score of approximately **(Enter score here)%**, indica
 The model can predict salary based on:
 ```python
 Age = 49
-Gender = 0 # Male
+Gender = 0 # Female
 Degree = 2 # Ph.D.
 Job_title = 22 # Director
 Experience = 15
