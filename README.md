@@ -31,11 +31,6 @@ Clone this repository:
 git clone https://github.com/yourusername/salary_predictor.git
 ```
 
-Install the required dependencies:
-```bash
-pip install -r requirements.txt
-```
-
 ## Project Structure
 
 ```markdown
